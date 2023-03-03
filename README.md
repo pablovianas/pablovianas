@@ -34,8 +34,8 @@
 
 <div align="center">
   <a href="https://github.com/pablovianas">
-  <img height="210em" src="https://github-readme-stats-omega-liard.vercel.app/api?username=pablovianas&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="250em" width="300em" src="https://github-readme-stats-omega-liard.vercel.app/api/top-langs/?username=pablovianas&langs_count=7&theme=blue-green"/>
+  <img height="210em" src="https://github-readme-stats-git-master-pablovianas.vercel.app/api?username=pablovianas&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="250em" width="300em" src="https://github-readme-stats-git-master-pablovianas.vercel.app/api/top-langs/?username=pablovianas&langs_count=7&theme=blue-green"/>
 </div>
 
 ## Visitors
