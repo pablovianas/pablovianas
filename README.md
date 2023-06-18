@@ -40,7 +40,7 @@
 
 ## Visitors
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pablovianas)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpablovianas%2Fpablovianas&countColor=%23263759&style=flat)
 
 ## Contribution graph
   
