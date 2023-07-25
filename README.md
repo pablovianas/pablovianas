@@ -1,8 +1,11 @@
-### Hi! I'm Pablo! 
+# About me
 
-##
+Based in Brazil, I'm a highly motivated and experienced
+                front-end developer with a passion for creating user-friendly
+                and engaging web experiences
 
-### How to reach me:
+
+# How to reach me:
 
 <div> 
 
@@ -11,11 +14,7 @@
  
 </div>
 
-
-
-##
-
-### Stacks that i'm actually learning
+# My stacks that I'm actually learning, trying to be a fullstack developer
 
 ###
 
@@ -25,19 +24,20 @@
     <img align="center" alt="Pablo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" alt="Pablo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Pablo-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align="center" alt="Pablo-NExtJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-  </div>                                                                                                                  
+    <img align="center" alt="Pablo-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+    <img align="center" alt="Pablo-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  />
+    <img align="center" alt="Pablo-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"  />
+    <img align="center" alt="Pablo-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  />
+  </div> 
 
-##
-
-### Statistics
+# Statistics
 
 <div align="center">
   <img height="210em" src="https://github-readme-stats-git-master-pablovianas.vercel.app/api?username=pablovianas&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="250em" width="300em" src="https://github-readme-stats-git-master-pablovianas.vercel.app/api/top-langs/?username=pablovianas&langs_count=7&theme=blue-green"/>
 </div>
 
-## Visitors
+# Visitors
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpablovianas%2Fpablovianas&countColor=%23263759&style=flat)
 
