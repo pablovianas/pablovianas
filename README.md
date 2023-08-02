@@ -1,5 +1,4 @@
-# About me
-
+# $${\color{cyan}About \space me}$$
 Based in Brazil, I'm a highly motivated and experienced
                 front-end developer with a passion for creating user-friendly
                 and engaging web experiences
